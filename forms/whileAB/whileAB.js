@@ -5,6 +5,6 @@ let name = firstName.concat(lastName)
 
 //outputs each letter
 for (i = 0; i < name.length; i++) {
-  console.log(`Letter ${i + 1} is ${name[i]}.`)
+  console.log(`Letter ${i + 1} is: ${name[i]}.`)
   }
   
